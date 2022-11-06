@@ -8,8 +8,8 @@
 ### 使用
 1. 在Xposed管理器(LSPosed, EdXposed...)中激活模块 (推荐使用LSP)
 2. 作用域勾选 系统界面`(com.android.systemui)`、电话服务`(com.android.phone)`
->❗电话服务为可选作用域，其作用于老版本的 MIUI(12) 自动打开 5G 的 SA 服务，正常情况下无需勾选
 3. 重启手机
++ ❗电话服务为可选作用域，其作用于老版本的 MIUI(12) 自动打开 5G 的 SA 服务，正常情况下无需勾选
 
 ### 下载
 [LSPosed 仓库](https://github.com/Xposed-Modules-Repo/com.qingyu.mi5g/releases)
