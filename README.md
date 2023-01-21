@@ -14,6 +14,10 @@
 ### 下载
 [LSPosed 仓库](https://github.com/Xposed-Modules-Repo/com.qingyu.mi5g/releases)
 
+### 截图
+![MIUI旧版控制中心](imgs/miui_qs.jpg)
+![MIUI新版控制中心](imgs/miui_cc.jpg)
+
 ### 无效
 请先检查模块是否正常激活，并且作用域是否勾选。如果排查后仍有错误，请提交issue。或联系酷安[@yangyiyu08](http://www.coolapk.com/u/1188320)
 
