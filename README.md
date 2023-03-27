@@ -21,6 +21,8 @@ For MIUI only, add 5G Network switch in the mobile network panel
 
 [LSPosed 仓库](https://github.com/Xposed-Modules-Repo/com.qingyu.mi5g/releases)
 
+[蓝奏云](https://qyma.lanzout.com/b051np9gf) 密码:`miui`
+
 ## 截图
 
 <div>
