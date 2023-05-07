@@ -1,6 +1,6 @@
 # 5G开关 -- FiveGSwitcher
 
-仅适用于MIUI，在状态栏的移动网络面板中添加 5G网络 开关
+仅适用于MIUI，在状态栏中添加 5G 开关
 
 For MIUI only, add 5G Network switch in the mobile network panel
 
@@ -17,6 +17,11 @@ For MIUI only, add 5G Network switch in the mobile network panel
 
 ❗电话服务为可选作用域，其作用于老版本的 MIUI(12) 自动打开 5G 的 SA 服务，无此需求可不勾选
 
+## 版本
+
+- 文件以 `-tile` 结尾的为磁贴开关
+- 文件以 `-panel` 结尾的为面板开关
+
 ## 下载
 
 [LSPosed 仓库](https://github.com/Xposed-Modules-Repo/com.qingyu.mi5g/releases)
@@ -25,10 +30,24 @@ For MIUI only, add 5G Network switch in the mobile network panel
 
 ## 截图
 
-<div>
-  <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.qingyu.mi5g/main/imgs/miui_qs.jpg" width = "410" height = 313"/>
-  <img src="https://raw.githubusercontent.com/Xposed-Modules-Repo/com.qingyu.mi5g/main/imgs/miui_cc.jpg" width = "410" height = "313"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/42611305/236685136-788c230f-e21c-4083-aeb3-78d21616b481.png" alt="磁贴开关" />
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/42611305/236685166-9934747c-c98a-43a2-9301-2e82b0c82607.png" alt="面板开关" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      磁贴开关
+    </td>
+    <td align="center">
+      面板开关
+    </td>
+  </tr>
+</table>
 
 ## 无效
 
