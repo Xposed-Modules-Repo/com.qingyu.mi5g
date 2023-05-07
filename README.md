@@ -1,8 +1,8 @@
 # 5G开关 -- FiveGSwitcher
 
-仅适用于MIUI，在状态栏中添加 5G 开关
+仅适用于MIUI，在移动网络面板或快捷开关中添加 5G 开关
 
-For MIUI only, add 5G Network switch in the mobile network panel
+For MIUI only, add 5G switch in the network panel or qs tile.
 
 ## 特点
 
